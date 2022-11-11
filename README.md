@@ -33,3 +33,20 @@ Power
 Seats
 
 Price
+
+# Models I used:
+1-Linear Regression
+
+2-Polynomial regression
+
+3-Polynomial regression with PCA due to high number of features
+
+4-Random Forest regression without PCA
+
+# conclusion
+The best accuracy I got is from RandomForestRegressor
+
+Accuracy on Traing set:  0.9825878876014844
+
+Accuracy on Testing set:  0.9088929588684407
+
